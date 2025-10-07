@@ -1,5 +1,5 @@
 # Hello-World-
-This repository is for practicing the GitHub Flow.
+Introducing Myself
 
 My name is Dilini M. Walakulu Arachchige.
 I am currently a Ph.D. candidate in Geosciences (Geophysics) at Southern Illinois University, Carbondale, Illinois.
